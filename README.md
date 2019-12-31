@@ -64,7 +64,7 @@ end
 
 #### Product Example
 
-- Product.produc
+- Product.products
 
 ```
 @products = [
